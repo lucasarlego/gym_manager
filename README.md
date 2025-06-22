@@ -22,7 +22,8 @@ Este é um projeto de **sistema multi-agente** desenvolvido com o **Agent Develo
 ├── agent.py
 ├── config.py
 ├── prompt.py
-└── .env```
+└── .env
+```
 
 ---
 
@@ -70,24 +71,24 @@ O sistema possui um **Agente Raiz (Root Agent)** chamado `gym_manager`, que gere
 
 ```bash
 python -m venv .venv
-´´´
+```
 
 2. **Ative o ambiente virtual:**
 
 ```bash
 .venv\Scripts\activate # Windows
 source .venv/bin/activate # Linux/maxOS
-´´´
+```
 
 3. **Instale as dependências:**
 ```bash
 pip install -r requirements.txt
-´´´
+```
 
 4. **Execute o código:**
 ```bash
 adk web
-´´´
+```
 
 ## 📌 Sobre o Projeto
 Este projeto foi criado para fins de aprendizado e experimentação com sistemas multi-agente, com foco em aplicações para saúde, bem-estar e academia, utilizando o Google ADK como base para a arquitetura conversacional.

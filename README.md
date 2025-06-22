@@ -6,7 +6,7 @@ Este é um projeto de **sistema multi-agente** desenvolvido com o **Agent Develo
 
 ## 📂 Estrutura de Pastas
 
-´´´gym_manager/
+```gym_manager/
 ├── sub_agents/
 │   ├── nutrition_agent/
 │   │   ├── tools/
@@ -22,7 +22,7 @@ Este é um projeto de **sistema multi-agente** desenvolvido com o **Agent Develo
 ├── agent.py
 ├── config.py
 ├── prompt.py
-└── .env´´´
+└── .env```
 
 ---
 
